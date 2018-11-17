@@ -1,0 +1,13 @@
+{
+  "name": "p5-brush-drawer",
+  "version": "1.0.0",
+  "description": "Autodrawer brush in p5.js with Typescript",
+  "scripts": {
+    "start": "concurrently \"browser-sync start --server -w\" \" tsc --watch\""
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "concurrently": "^3.5.1",
+    "typescript": "^2.8.3"
+  }
+}
