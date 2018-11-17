@@ -1,5 +1,7 @@
 # brush-autodrawer
 Small project to Generative Design class @FI MU. Generation of paintings by randomly drawing brushes
+Web version with p5.js and Typescript also available. Kudos for typescript starter to https://github.com/Gaweph/p5-typescript-starter
+
 
 ## Images generated with the app
 ![01](/images/01.png?raw=true)
